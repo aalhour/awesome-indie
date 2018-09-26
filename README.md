@@ -11,7 +11,7 @@ All these resources might help inspire you and put you on the right track but in
 
 Contributions are more than welcome.
 
-by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everydayCheck](https://everydaycheck.com)**)
+by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[everyday.app](https://everyday.app)**)
 
 **Notes:**
 
@@ -80,7 +80,6 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 <!-- - lobsters -->
 
 ### Newsletters
-
 - **[Bootstrappers.io](https://bootstrappers.io/)**
 
   Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren Stuart](https://twitter.com/ninjamonk).
@@ -100,7 +99,11 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 - **[Hackerpreneur](https://hackerpreneur.co/)**
 
   For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
-
+  
+- **[Bootstrap Money](https://bootstrap.money)**
+  
+  Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
+  Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
 
 ### Podcasts
 
@@ -176,7 +179,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 - **[Talks from the MicroConf](https://vimeo.com/user12790628/videos)**
 - **[Talks from the BaconBizConf](http://baconbiz.com/)**
 - **[Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)**
-- 
+
 ### Posts
 
 - **[I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
@@ -278,10 +281,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Baremetrics](https://baremetrics.com/blog)**
 
   An example of riding the wave.
-
-- **[Transparent Startups](http://www.transparentstartups.com/)**
-
-  Discover startups with transparent revenue numbers.
   
 - **[Carrd.co](https://themakingof.carrd.co/#)**
 
